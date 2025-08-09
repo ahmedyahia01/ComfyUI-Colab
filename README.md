@@ -2,7 +2,8 @@
 
 مرحباً بك في دليل الإعداد الشامل لـ ComfyUI. سيقوم دفتر العمل (Notebook) الموجود في هذا المشروع بتجهيز بيئة عمل كاملة وقوية على Google Colab، مع تحميل أحدث النماذج وحل جميع المشاكل الشائعة تلقائيًا.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/ComfyUI_Installer.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahmedyahia01/ComfyUI-Colab/blob/main/ComfyUI_Installer.ipynb)
+
 
 **ملاحظة هامة:** بعد رفع المشروع، يجب عليك تعديل الرابط أعلاه واستبدال `YOUR_USERNAME` و `YOUR_REPO_NAME` بالاسم الصحيح لمشروعك.
 
